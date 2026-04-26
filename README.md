@@ -18,7 +18,7 @@
 * 💻 **I build full-stack web applications** and integrate AI-powered tools.
 * 🔭 **Currently focusing on:** Microservices Architecture & System Design.
 * 🧠 **Core Skills:** MERN Stack (MongoDB, Express, React, Node.js) & API Development.
-* 👯 **Looking to collaborate on:** Open Source projects and innovative tech prototypes.
+* 👯 **Looking to collaborate on:** Open Source projects and innovative initiatives
 
 ---
 
